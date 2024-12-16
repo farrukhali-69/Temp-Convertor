@@ -1,0 +1,42 @@
+body{
+    font-size: 1.3em;
+    text-align: center;
+    background-color: rgb(224, 255, 255);
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#textbox{
+    font-size: larger;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+#tofahrenheit{
+    margin-bottom: 15px;
+}
+#tocelcius{
+    margin-bottom: 20px;
+}
+label{
+    font-size: 1.3em;
+}
+
+#submit{
+    font-size: 1.2em;
+    background-color: rgb(253, 115, 115);
+    padding: 8px 10px;
+    border: none;
+    border-radius: 5px;
+    color: hsla(0, 0%, 0%, 0.699);
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+#submit:hover{
+    background-color: rgb(255, 206, 206);
+}
+#result{
+    font-size: 1.4em;
+}
